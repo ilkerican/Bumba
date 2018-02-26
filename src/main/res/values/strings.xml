@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bumba</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a_close_text">Close</string>
+    <string name="a_terms_page_title">Dönemler</string>
+    <string name="a_tasks_page_title">Görevler</string>
+    <string name="r_txt_termStartDate">Dönem Başlangıç Tarihi</string>
+    <string name="r_txt_termEndDate">Dönem Bitiş Tarihi</string>
+    <string name="r_txt_termName">Dönem Adı</string>
+    <string name="r_no_terms_defined">Dönem kaydı bulunamadı</string>
+    <string name="r_str_termenddate">Bitiş Tarihi</string>
+    <string name="r_str_termstartdate">Başlangıç Tarihi</string>
+    <string name="r_str_TermName">Dönem adı</string>
+    <string name="r_str_generic_SaveButtonText">Kaydet</string>
+    <string name="r_str_task_name">Görev Adı</string>
+    <string name="r_str_deadline">Geçerlilik tarihi</string>
+    <string name="r_str_task_point">Puan</string>
+    <string name="r_str_task_deadline">Geçerlilik Tarihi</string>
+    <string name="r_str_task_term_name">Dönem Adı</string>
+    <string name="r_str_task_point_value">Puan Değeri</string>
+    <string name="r_str_points_collected">Toplanan Puanlar</string>
+</resources>

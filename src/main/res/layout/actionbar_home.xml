@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/ab_design_home_txtDate"
+        android:layout_width="141dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Hey there"
+        android:textAllCaps="false"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#fff"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/ab_design_home_txtPoints"
+        android:layout_width="217dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="hey there two"
+        android:textAlignment="viewEnd"
+        android:textAllCaps="false"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#fff"
+        android:textStyle="normal" />
+
+
+</LinearLayout>
